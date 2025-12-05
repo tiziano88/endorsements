@@ -1,0 +1,3 @@
+data: {"jsonrpc":"2.0","id":1,"result":{"tools":[{"name":"get","description":"Provides flight information","inputSchema":{"$schema":"http://json-schema.org/draft-07/schema#","properties":{"key":{"description":"Get flight request. Needs to be formatted as following: 'DEPARTURE_CITY-ARRIVAL_CITY-DATE'.\nDate should be 8 numbers DD-MM-YYYY, i.e. 15-12-2025. So examples are LONDON-MADRID-15-12-2025 or PARIS-LONDON-24-12-2025.","type":"string"}},"required":["key"],"title":"GetRequest","type":"object"}}]}}
+id: 0/0
+
