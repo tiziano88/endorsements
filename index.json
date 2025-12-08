@@ -17,6 +17,15 @@
         "tr.subject": "sha256:0de3ba09ebcdc9def567749a96c598feb8aa71364d4fb8c2e8f7306bd31060b4",
         "tr.type": "endorsement"
       }
+    },
+    {
+      "mediaType": "application/vnd.dev.sigstore.bundle+json",
+      "digest": "sha256:03ac6ac2c6b935d3d56834027af8390d06998af404093565af9eb3d439ea7f47",
+      "size": 4036,
+      "annotations": {
+        "tr.subject": "sha256:0de3ba09ebcdc9def567749a96c598feb8aa71364d4fb8c2e8f7306bd31060b4",
+        "tr.type": "endorsement"
+      }
     }
   ]
 }
