@@ -1,0 +1,2 @@
+data: {"jsonrpc":"2.0","id":0,"result":{"protocolVersion":"2025-06-18","capabilities":{"tools":{}},"serverInfo":{"name":"rmcp","version":"0.8.1"},"instructions":"Hotel server that can provide hotel and availability information based on a city or a city and date key"}}
+
